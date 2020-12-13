@@ -1,6 +1,6 @@
 # Table of Contents
 
-<img src="images/trajectory.png" align="right">
+<img src="images/trajectory.png" align="center">
 
 ## trajectory
 
