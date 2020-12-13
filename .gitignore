@@ -2,3 +2,11 @@
 *.xcf
 *~
 #*
+
+
+linux*Clang*/
+linux*Gcc*/
+linux*Icc*/
+solaris*Gcc*/
+SunOS*Gcc*/
+platforms/
