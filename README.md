@@ -38,10 +38,12 @@ astrodynamics.
 # Step to nail it down
 
 
-## First step is to simulate Earth and Mars
+## Step 0 simulate gravity
+
+<img src="images/demo-show-projectile.gif" align="center">
 
 
-### simulation gravity
+## Step 1 simulate Earth and Mars
 
 
 # Contributing
@@ -55,3 +57,10 @@ See [COPYING][]. Copyright (c) 2020 Ran Wang.
 
 [CONTRIBUTING]: ./CONTRIBUTING.md
 [COPYING]: ./COPYING
+
+
+# Reference
+
+-   Nata\vsa Todorovi\\'c, Wu, D., & Rosengren, A. J. (2020). The arches
+    of chaos in the solar system. Science Advances, 6(48), 1313.
+    <http://dx.doi.org/10.1126/sciadv.abd1313>
